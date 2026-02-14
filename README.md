@@ -1,6 +1,6 @@
-# simple-tcp-port-scanner
+# Simple-tcp-port-scanner
 A beginner-friendly Python TCP port scanner that scans ports 1–100, detects open ports, and displays scanning progress in real time.
-# Simple TCP Port Scanner
+
 
 ## 📌 Description
 Simple TCP Port Scanner is a Python-based network security tool that scans ports 1 to 100 on a target host. The program identifies open ports, closed ports, and filtered ports while displaying real-time scanning progress.
@@ -29,6 +29,11 @@ This tool is designed for educational purposes and helps demonstrate how basic p
 Make sure Python 3 is installed on your system.
 
 ### 2. Clone or Download the Repository
+### 3.Navigate to the Project Folder
+cd simple-tcp-port-scanner
+
+### 4. Run the Program
+python scanner.py
 
 ```bash
 git clone https://github.com/yourusername/simple-tcp-port-scanner.git
